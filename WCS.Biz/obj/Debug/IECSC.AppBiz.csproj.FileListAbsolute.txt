@@ -1,0 +1,216 @@
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csprojAssemblyReference.cache
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.pdb
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\HSOpcClient.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.DbClient.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.Model.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\OpcNetApi.Com.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\OpcNetApi.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\DapperExtensions.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\Dapper.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\HSDbClient.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\OpcRcw.Comn.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\OpcRcw.Da.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\OpcRcw.Ae.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\OpcRcw.Hda.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\OpcRcw.Dx.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\MySql.Data.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\Google.Protobuf.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\BouncyCastle.Crypto.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\Ubiety.Dns.Core.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\Renci.SshNet.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.DbClient.pdb
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.Model.pdb
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csproj.CopyComplete
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.dll
+D:\我的桌面\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.pdb
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.pdb
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.DbClient.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.Model.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\DapperExtensions.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\Dapper.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\HSDbClient.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\MySql.Data.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\Google.Protobuf.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\BouncyCastle.Crypto.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\Ubiety.Dns.Core.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\Renci.SshNet.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.DbClient.pdb
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.Model.pdb
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\bin\Debug\MySql.Data.xml
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csprojAssemblyReference.cache
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csproj.CopyComplete
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.DbClient.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.Model.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\DapperExtensions.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\Dapper.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\HSDbClient.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\MySql.Data.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\Google.Protobuf.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\BouncyCastle.Crypto.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\Ubiety.Dns.Core.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\Renci.SshNet.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.DbClient.pdb
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\MySql.Data.xml
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csprojAssemblyReference.cache
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csproj.CopyComplete
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\IECSC.DbClient.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\IECSC.Model.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\DapperExtensions.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\Dapper.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\HSDbClient.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\MySql.Data.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\Google.Protobuf.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\BouncyCastle.Crypto.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\Ubiety.Dns.Core.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\Renci.SshNet.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\IECSC.DbClient.pdb
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\bin\Debug\MySql.Data.xml
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csprojAssemblyReference.cache
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csproj.CopyComplete
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.DbClient.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.Model.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\DapperExtensions.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\Dapper.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\HSDbClient.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\MySql.Data.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\Google.Protobuf.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\BouncyCastle.Crypto.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\Ubiety.Dns.Core.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\Renci.SshNet.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.DbClient.pdb
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\bin\Debug\MySql.Data.xml
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csprojAssemblyReference.cache
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csproj.CopyComplete
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csproj.CopyComplete
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.DbClient.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.Model.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csprojAssemblyReference.cache
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\DapperExtensions.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Dapper.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\HSDbClient.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\MySql.Data.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Google.Protobuf.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\BouncyCastle.Crypto.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Ubiety.Dns.Core.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Renci.SshNet.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.DbClient.pdb
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\MySql.Data.xml
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.DbClient.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.Model.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\DapperExtensions.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Dapper.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\HSDbClient.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\MySql.Data.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Google.Protobuf.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\BouncyCastle.Crypto.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Ubiety.Dns.Core.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Renci.SshNet.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.DbClient.pdb
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\MySql.Data.xml
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csprojAssemblyReference.cache
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csproj.CopyComplete
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.DbClient.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.Model.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\DapperExtensions.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\Dapper.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\HSDbClient.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\MySql.Data.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\Google.Protobuf.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\BouncyCastle.Crypto.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\Ubiety.Dns.Core.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\Renci.SshNet.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.DbClient.pdb
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\bin\Debug\MySql.Data.xml
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csprojAssemblyReference.cache
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csproj.CopyComplete
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.DbClient.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.Model.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\DapperExtensions.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Dapper.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\HSDbClient.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\MySql.Data.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Google.Protobuf.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\BouncyCastle.Crypto.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Ubiety.Dns.Core.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Renci.SshNet.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.DbClient.pdb
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\MySql.Data.xml
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csprojAssemblyReference.cache
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csproj.CopyComplete
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.DbClient.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.Model.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\DapperExtensions.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Dapper.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\HSDbClient.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\MySql.Data.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Google.Protobuf.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\BouncyCastle.Crypto.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Ubiety.Dns.Core.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Renci.SshNet.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.DbClient.pdb
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\MySql.Data.xml
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csprojAssemblyReference.cache
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csproj.CopyComplete
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.AppBiz.pdb
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.DbClient.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.Model.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\DapperExtensions.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Dapper.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\HSDbClient.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\MySql.Data.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Google.Protobuf.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\BouncyCastle.Crypto.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Ubiety.Dns.Core.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\Renci.SshNet.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.DbClient.pdb
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\bin\Debug\MySql.Data.xml
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csprojAssemblyReference.cache
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.csproj.CopyComplete
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\2.Applications\IECSC.AppBiz\obj\Debug\IECSC.AppBiz.pdb

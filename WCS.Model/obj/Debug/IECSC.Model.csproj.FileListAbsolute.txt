@@ -1,0 +1,49 @@
+D:\我的桌面\IECSC.Trans\IECSC.Model\bin\Debug\IECSC.Model.dll
+D:\我的桌面\IECSC.Trans\IECSC.Model\bin\Debug\IECSC.Model.pdb
+D:\我的桌面\IECSC.Trans\IECSC.Model\obj\Debug\IECSC.Model.dll
+D:\我的桌面\IECSC.Trans\IECSC.Model\obj\Debug\IECSC.Model.pdb
+D:\我的桌面\IECSC.Trans\IECSC.Model\obj\Debug\IECSC.Model.csprojAssemblyReference.cache
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.Model\bin\Debug\IECSC.Model.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.Model\bin\Debug\IECSC.Model.pdb
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.Model\obj\Debug\IECSC.Model.dll
+D:\我的桌面\输送线程序\IECSC.Trans\IECSC.Model\obj\Debug\IECSC.Model.pdb
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.Model\bin\Debug\IECSC.Model.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.Model\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.Model\obj\Debug\IECSC.Model.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans\IECSC.Model\obj\Debug\IECSC.Model.pdb
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.Model\bin\Debug\IECSC.Model.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.Model\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.Model\obj\Debug\IECSC.Model.dll
+E:\01项目资料\2020-06-01 湖北玲珑\02产品代码\IECSC.Trans.A\IECSC.Model\obj\Debug\IECSC.Model.pdb
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.Model\bin\Debug\IECSC.Model.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.Model\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.Model\obj\Debug\IECSC.Model.csprojAssemblyReference.cache
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.Model\obj\Debug\IECSC.Model.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\IECSC.Model\obj\Debug\IECSC.Model.pdb
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\3.Domains\IECSC.Model\bin\Debug\IECSC.Model.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\3.Domains\IECSC.Model\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.dll
+E:\01项目资料\28湖北玲珑\02产品代码\IECSC.Trans\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.pdb
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\3.Domains\IECSC.Model\bin\Debug\IECSC.Model.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\3.Domains\IECSC.Model\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.pdb
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.csprojAssemblyReference.cache
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\3.Domains\IECSC.Model\bin\Debug\IECSC.Model.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\3.Domains\IECSC.Model\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.dll
+E:\01项目资料\29安徽马钢项目\02产品代码\IECSC.Trans.20200716\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.pdb
+E:\01项目资料\30广西玲珑\IECSC.Trans\3.Domains\IECSC.Model\bin\Debug\IECSC.Model.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\3.Domains\IECSC.Model\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\30广西玲珑\IECSC.Trans\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.dll
+E:\01项目资料\30广西玲珑\IECSC.Trans\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.pdb
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\3.Domains\IECSC.Model\bin\Debug\IECSC.Model.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\3.Domains\IECSC.Model\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.csprojAssemblyReference.cache
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.dll
+E:\01项目资料\30广西玲珑\01产品代码\IECSC.Trans\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.pdb
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\3.Domains\IECSC.Model\bin\Debug\IECSC.Model.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\3.Domains\IECSC.Model\bin\Debug\IECSC.Model.pdb
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.dll
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.pdb
+E:\01项目资料\31无锡宝通项目\01产品代码\IECSC.Trans\3.Domains\IECSC.Model\obj\Debug\IECSC.Model.csprojAssemblyReference.cache

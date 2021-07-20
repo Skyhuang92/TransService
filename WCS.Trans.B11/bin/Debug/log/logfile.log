@@ -1,0 +1,950 @@
+2021-01-23 09:45:56,844 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-01-23 09:45:56.628
+No Data 
+---------------------------------------------
+
+2021-01-23 09:52:01,782 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-01-23 09:52:01.639
+No Data 
+---------------------------------------------
+
+2021-01-23 10:08:52,946 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-01-23 10:08:52.769
+No Data 
+---------------------------------------------
+
+2021-01-23 10:16:44,260 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-01-23 10:16:44.042
+No Data 
+---------------------------------------------
+
+2021-01-23 11:06:18,850 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-01-23 11:06:18.678
+No Data 
+---------------------------------------------
+
+2021-02-02 18:11:55,237 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-02-02 18:11:54.967
+No Data 
+---------------------------------------------
+
+2021-02-02 18:22:17,277 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-02-02 18:22:17.073
+No Data 
+---------------------------------------------
+
+2021-02-05 18:08:19,306 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-02-05 18:08:19.038
+No Data 
+---------------------------------------------
+
+2021-03-03 18:24:56,696 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:24:56.565
+[A1201]创建业务类对象失败！
+---------------------------------------------
+
+2021-03-03 18:25:24,890 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:25:24.803
+[A1201]创建业务类对象失败！
+---------------------------------------------
+
+2021-03-03 18:43:24,754 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:43:24.646
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-03 18:43:24,798 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:43:24.789
+OPC节点数[147]
+---------------------------------------------
+
+2021-03-03 18:43:25,496 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:43:25.490
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-03 18:43:26,638 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:43:26.632
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:43:26,650 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:43:26.644
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:43:26,660 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:43:26.654
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:43:26,670 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:43:26.664
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:43:26,680 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:43:26.675
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:43:26,693 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:43:26.685
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:43:26,703 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:43:26.697
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:47:53,207 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:47:53.036
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-03 18:47:53,265 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:47:53.253
+OPC节点数[147]
+---------------------------------------------
+
+2021-03-03 18:47:54,088 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:47:54.080
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-03 18:47:55,448 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:47:55.440
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:47:55,481 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:47:55.475
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:47:55,492 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:47:55.485
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:47:55,504 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:47:55.499
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:47:55,515 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:47:55.510
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:47:55,527 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:47:55.521
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:47:55,537 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:47:55.532
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:51:19,509 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:51:19.381
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-03 18:51:19,563 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:51:19.553
+OPC节点数[147]
+---------------------------------------------
+
+2021-03-03 18:51:20,222 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:51:20.213
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-03 18:51:21,518 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:51:21.512
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:51:21,540 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:51:21.534
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:51:21,551 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:51:21.546
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:51:21,562 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:51:21.558
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:51:21,573 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:51:21.567
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:51:21,582 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:51:21.577
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-03 18:51:21,591 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-03 18:51:21.586
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-04 07:58:08,712 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 07:58:08.478
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 07:58:08,789 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 07:58:08.772
+OPC节点数[147]
+---------------------------------------------
+
+2021-03-04 07:58:10,668 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 07:58:10.656
+与OPC SERVER建立连接失败：A12.Trans.A1201.Read.TaskNo:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Read.StatusRequest:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Read.StatusFree:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Read.StatusNeedToPut:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Write.TaskNo:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Write.PalletNo:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Write.SlocArea:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Write.SlocCode:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Write.ElocArea:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Write.ElocCode:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Read.PalletNo:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Write.HandleRequest:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Write.HandleNeedToPut:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Write.FaultNo:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Read.SlocArea:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Read.SlocCode:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Read.ElocArea:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Read.ElocCode:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Read.StatusAuto:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Read.StatusFault:E_UNKNOWN_ITEM_NAME;A12.Trans.A1201.Read.StatusLoad:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Read.TaskNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Read.StatusRequest:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Read.StatusFree:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Read.StatusNeedToPut:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Write.TaskNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Write.PalletNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Write.SlocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Write.SlocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Write.ElocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Write.ElocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Read.PalletNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Write.HandleRequest:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Write.HandleNeedToPut:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Write.FaultNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Read.SlocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Read.SlocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Read.ElocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Read.ElocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Read.StatusAuto:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Read.StatusFault:E_UNKNOWN_ITEM_NAME;A11.Trans.A1112.Read.StatusLoad:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Read.TaskNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Read.StatusRequest:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Read.StatusFree:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Read.StatusNeedToPut:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Write.TaskNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Write.PalletNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Write.SlocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Write.SlocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Write.ElocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Write.ElocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Read.PalletNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Write.HandleRequest:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Write.HandleNeedToPut:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Write.FaultNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Read.SlocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Read.SlocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Read.ElocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Read.ElocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Read.StatusAuto:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Read.StatusFault:E_UNKNOWN_ITEM_NAME;A11.Trans.A1142.Read.StatusLoad:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Read.TaskNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Read.StatusRequest:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Read.StatusFree:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Read.StatusNeedToPut:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Write.TaskNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Write.PalletNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Write.SlocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Write.SlocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Write.ElocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Write.ElocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Read.PalletNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Write.HandleRequest:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Write.HandleNeedToPut:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Write.FaultNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Read.SlocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Read.SlocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Read.ElocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Read.ElocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Read.StatusAuto:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Read.StatusFault:E_UNKNOWN_ITEM_NAME;A11.Trans.A1172.Read.StatusLoad:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Read.TaskNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Read.StatusRequest:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Read.StatusFree:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Read.StatusNeedToPut:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Write.TaskNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Write.PalletNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Write.SlocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Write.SlocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Write.ElocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Write.ElocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Read.PalletNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Write.HandleRequest:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Write.HandleNeedToPut:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Write.FaultNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Read.SlocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Read.SlocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Read.ElocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Read.ElocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Read.StatusAuto:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Read.StatusFault:E_UNKNOWN_ITEM_NAME;A11.Trans.A1121.Read.StatusLoad:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Read.TaskNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Read.StatusRequest:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Read.StatusFree:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Read.StatusNeedToPut:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Write.TaskNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Write.PalletNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Write.SlocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Write.SlocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Write.ElocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Write.ElocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Read.PalletNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Write.HandleRequest:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Write.HandleNeedToPut:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Write.FaultNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Read.SlocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Read.SlocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Read.ElocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Read.ElocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Read.StatusAuto:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Read.StatusFault:E_UNKNOWN_ITEM_NAME;A11.Trans.A1151.Read.StatusLoad:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Read.TaskNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Read.StatusRequest:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Read.StatusFree:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Read.StatusNeedToPut:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Write.TaskNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Write.PalletNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Write.SlocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Write.SlocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Write.ElocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Write.ElocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Read.PalletNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Write.HandleRequest:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Write.HandleNeedToPut:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Write.FaultNo:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Read.SlocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Read.SlocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Read.ElocArea:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Read.ElocCode:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Read.StatusAuto:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Read.StatusFault:E_UNKNOWN_ITEM_NAME;A11.Trans.A1181.Read.StatusLoad:E_UNKNOWN_ITEM_NAME;
+---------------------------------------------
+
+2021-03-04 07:58:53,219 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 07:58:53.061
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 07:58:53,280 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 07:58:53.265
+OPC节点数[147]
+---------------------------------------------
+
+2021-03-04 07:58:54,394 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 07:58:54.383
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-04 07:58:55,926 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 07:58:55.913
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-04 07:58:55,961 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 07:58:55.952
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-04 07:58:55,988 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 07:58:55.981
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-04 07:58:56,049 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 07:58:56.008
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-04 07:58:56,073 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 07:58:56.066
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-04 07:58:56,096 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 07:58:56.088
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-04 07:58:56,119 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 07:58:56.111
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:18:02,300 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:18:02.081
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 08:18:02,372 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:18:02.355
+OPC节点数[147]
+---------------------------------------------
+
+2021-03-04 08:18:03,867 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:18:03.858
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-04 08:18:05,569 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:18:05.561
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:18:05,617 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:18:05.608
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:18:05,655 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:18:05.645
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:18:05,737 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:18:05.688
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:18:05,782 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:18:05.770
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:18:05,826 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:18:05.818
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:18:05,855 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:18:05.848
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:22:25,847 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:22:25.706
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 08:22:25,912 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:22:25.895
+OPC节点数[147]
+---------------------------------------------
+
+2021-03-04 08:22:27,446 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:22:27.438
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-04 08:22:28,891 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:22:28.877
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:22:28,934 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:22:28.914
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:22:28,965 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:22:28.955
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:22:29,002 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:22:28.993
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:22:29,033 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:22:29.023
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:22:29,105 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:22:29.095
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:22:29,134 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:22:29.125
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:23:26,247 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:23:26.085
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 08:23:26,311 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:23:26.297
+OPC节点数[147]
+---------------------------------------------
+
+2021-03-04 08:23:27,620 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:23:27.609
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-04 08:23:34,811 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:23:34.805
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:23:34,841 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:23:34.831
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:23:34,873 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:23:34.867
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:23:34,907 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:23:34.901
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:23:34,932 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:23:34.926
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:23:34,981 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:23:34.975
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:23:35,009 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:23:35.003
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:59:18,360 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:59:18.282
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 08:59:18,395 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:59:18.388
+OPC节点数[219]
+---------------------------------------------
+
+2021-03-04 08:59:18,809 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:59:18.801
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-04 08:59:19,889 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:59:19.884
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:59:19,898 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:59:19.893
+[A1101]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:59:19,904 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:59:19.901
+[A1131]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:59:19,911 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:59:19.907
+[A1161]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:59:19,919 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:59:19.914
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:59:19,926 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:59:19.922
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:59:19,933 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:59:19.929
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:59:19,941 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:59:19.937
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:59:19,969 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:59:19.944
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-04 08:59:19,976 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 08:59:19.972
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:03:20,837 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:03:20.750
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 09:03:20,873 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:03:20.865
+OPC节点数[219]
+---------------------------------------------
+
+2021-03-04 09:03:21,274 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:03:21.268
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-04 09:03:22,345 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:03:22.339
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:03:22,354 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:03:22.350
+[A1101]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:03:22,360 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:03:22.357
+[A1131]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:03:22,367 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:03:22.363
+[A1161]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:03:22,375 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:03:22.371
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:03:22,381 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:03:22.377
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:03:22,389 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:03:22.384
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:03:22,395 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:03:22.391
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:03:22,421 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:03:22.398
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:03:22,429 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:03:22.424
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:04:54,463 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:04:54.386
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 09:04:54,499 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:04:54.491
+OPC节点数[219]
+---------------------------------------------
+
+2021-03-04 09:04:54,894 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:04:54.889
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-04 09:04:55,967 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:04:55.962
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:04:55,978 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:04:55.973
+[A1101]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:04:55,991 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:04:55.984
+[A1131]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:04:56,004 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:04:55.999
+[A1161]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:04:56,014 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:04:56.008
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:04:56,045 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:04:56.041
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:04:56,194 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:04:56.189
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:04:56,205 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:04:56.199
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:04:56,242 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:04:56.210
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:04:56,251 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:04:56.247
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:05:36,658 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:05:36.576
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 09:05:36,691 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:05:36.684
+OPC节点数[219]
+---------------------------------------------
+
+2021-03-04 09:05:37,122 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:05:37.116
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-04 09:05:38,189 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:05:38.184
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:05:38,198 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:05:38.193
+[A1101]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:05:38,204 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:05:38.200
+[A1131]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:05:38,212 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:05:38.208
+[A1161]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:05:38,220 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:05:38.216
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:05:38,228 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:05:38.223
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:05:38,236 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:05:38.231
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:05:38,244 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:05:38.240
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:05:38,251 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:05:38.247
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:05:38,280 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:05:38.256
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:09:52,417 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:09:52.335
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 09:09:52,452 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:09:52.445
+OPC节点数[219]
+---------------------------------------------
+
+2021-03-04 09:09:52,873 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:09:52.867
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-04 09:09:53,947 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:09:53.940
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:09:53,956 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:09:53.952
+[A1101]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:09:53,963 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:09:53.959
+[A1131]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:09:53,972 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:09:53.967
+[A1161]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:09:53,980 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:09:53.975
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:09:53,986 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:09:53.982
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:09:53,994 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:09:53.990
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:09:54,002 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:09:53.998
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:09:54,009 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:09:54.005
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:09:54,035 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:09:54.031
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:11:12,615 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:11:12.535
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 09:11:12,650 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:11:12.643
+OPC节点数[219]
+---------------------------------------------
+
+2021-03-04 09:11:13,078 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:11:13.073
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-04 09:57:37,494 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:57:37.407
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 09:57:37,527 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:57:37.520
+OPC节点数[219]
+---------------------------------------------
+
+2021-03-04 09:57:37,937 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:57:37.933
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-04 09:57:39,012 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:57:39.007
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:57:39,027 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:57:39.022
+[A1101]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:57:39,035 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:57:39.029
+[A1131]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:57:39,042 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:57:39.038
+[A1161]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:57:39,050 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:57:39.045
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:57:39,057 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:57:39.052
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:57:39,064 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:57:39.060
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:57:39,072 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:57:39.067
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:57:39,079 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:57:39.075
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:57:39,105 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:57:39.082
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:58:23,166 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:58:23.091
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 09:58:23,201 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:58:23.194
+OPC节点数[219]
+---------------------------------------------
+
+2021-03-04 09:58:23,626 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:58:23.620
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-04 09:59:18,602 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:59:18.590
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:59:18,615 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:59:18.608
+[A1101]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:59:18,623 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:59:18.618
+[A1131]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:59:18,633 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:59:18.628
+[A1161]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:59:18,641 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:59:18.636
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:59:18,650 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:59:18.644
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:59:18,657 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:59:18.653
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:59:18,666 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:59:18.660
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:59:18,674 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:59:18.669
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-04 09:59:18,705 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 09:59:18.678
+[A1181]设备状态为手动
+---------------------------------------------
+
+2021-03-04 10:15:42,852 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 10:15:42.737
+创建站台对象成功！
+---------------------------------------------
+
+2021-03-04 10:15:42,893 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 10:15:42.885
+OPC节点数[219]
+---------------------------------------------
+
+2021-03-04 10:15:43,401 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 10:15:43.395
+与OPC SERVER建立连接成功！
+---------------------------------------------
+
+2021-03-04 10:15:44,493 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 10:15:44.484
+[A1201]设备状态为手动
+---------------------------------------------
+
+2021-03-04 10:15:44,505 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 10:15:44.499
+[A1101]设备状态为手动
+---------------------------------------------
+
+2021-03-04 10:15:44,514 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 10:15:44.508
+[A1131]设备状态为手动
+---------------------------------------------
+
+2021-03-04 10:15:44,525 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 10:15:44.518
+[A1161]设备状态为手动
+---------------------------------------------
+
+2021-03-04 10:15:44,541 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 10:15:44.534
+[A1112]设备状态为手动
+---------------------------------------------
+
+2021-03-04 10:15:44,568 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 10:15:44.545
+[A1142]设备状态为手动
+---------------------------------------------
+
+2021-03-04 10:15:44,584 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 10:15:44.572
+[A1172]设备状态为手动
+---------------------------------------------
+
+2021-03-04 10:15:44,595 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 10:15:44.590
+[A1121]设备状态为手动
+---------------------------------------------
+
+2021-03-04 10:15:44,605 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 10:15:44.599
+[A1151]设备状态为手动
+---------------------------------------------
+
+2021-03-04 10:15:44,613 [1] DEBUG WCS.Trans.MainWindow [(null)] - 
+2021-03-04 10:15:44.608
+[A1181]设备状态为手动
+---------------------------------------------
+

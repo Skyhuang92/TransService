@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Texts Type="英语">
+  <!--初始化日志-->
+  <Text name="GetLocInfoFail">获取站台信息失败：</Text>
+  <Text name="GetOPCItemsFail">获取站台[{0}]的OPC配置项信息失败：{1}</Text>
+  <Text name="CreateBizClassFail">创建业务类对象失败！</Text>
+  <Text name="CreateLocObjectSuccess">创建站台对象成功！</Text>
+  <Text name="OPCItemsCount">OPC节点数[{0}]</Text>
+  <Text name="ConnectLocOPCServerSuccess">与OPC SERVER建立连接成功！</Text>
+  <Text name="ConnectLocOPCServerFail">与OPC SERVER建立连接失败：</Text>
+  <Text name="CreateOPCObjectSuccess">创建OPC对象成功！</Text>
+  <Text name="HandleBizAbnormal">业务处理异常：</Text>
+  <!--站台业务处理-->
+  <Text name="SavePLCStatusFail">记录PLC状态失败：</Text>
+  <Text name="SavePLCStatusAbnormal">记录PLC状态时出现异常：</Text>
+  <Text name="EquipFault">设备故障</Text>
+  <Text name="EquipManual">设备状态为手动</Text>
+  <Text name="TaskCmd">任务信息</Text>
+  <Text name="TaskNo">任务编号 = </Text>
+  <Text name="RfidNo">工装编号 = </Text>
+  <Text name="SlocPlcNo">初始位置 = </Text>
+  <Text name="ElocPlcNo">结束位置 = </Text>
+  <Text name="GetTaskCmdFail">查找指令数据失败：</Text>
+  <Text name="GetTaskCmdAbnormal">查找指令数据发生异常：</Text>
+  <Text name="UpdateCmdStepSuccess">更新指令[{0}]步骤为02成功！</Text>
+  <Text name="UpdateCmdStepFail">更新指令[{0}]步骤为02失败：{1}！</Text>
+  <Text name="UpdateCmdStepAbnormal">修改指令步骤发生异常：</Text>
+  <Text name="GetRequestTaskObjidSuccess">获取任务请求主键[{0}]成功！</Text>
+  <Text name="GetRequestTaskObjidFail">获取任务请求主键失败：</Text>
+  <Text name="RequestTaskSuccess">请求成功,生成任务[{0}]！</Text>
+  <Text name="RequestTaskFail">请求生成任务失败：</Text>
+  <Text name="GetRequestCmdObjidSuccess">获取指令请求主键[{0}]成功！</Text>
+  <Text name="GetRequestCmdObjidFail">获取指令请求主键失败：</Text>
+  <Text name="RequestCmdSuccess">请求成功,生成指令[{0}]！</Text>
+  <Text name="RequestCmdFail">请求生成指令失败：</Text>
+  <Text name="GetFinishCmdObjidSuccess">获取指令结束主键[{0}]成功！</Text>
+  <Text name="GetFinishCmdObjidFail">获取指令结束主键失败：</Text>
+  <Text name="FinishCmdSuccess">结束指令成功！</Text>
+  <Text name="FinishCmdFail">请求结束指令失败：</Text>
+  <Text name="GetRfidNoFail">获取工装编号失败:：</Text>
+  <Text name="GetRfidNoSuccess">获取到工装编号[{0}]</Text>
+  <Text name="GetOPCItemsValueFail">获取OPC项数值失败：</Text>
+  <Text name="DownTaskCmdSuccess">写入PLC任务信息成功！</Text>
+  <Text name="DownTaskCmdFail">写入PLC任务信息失败：</Text>
+  <Text name="ClearTaskCmdSuccess">清除写入PLC的任务信息成功！</Text>
+  <Text name="ClearTaskCmdFail">清除写入PLC的任务信息失败：</Text>
+  <Text name="DownFaultNoSuccess">写入PLC故障码[{0}]成功！</Text>
+  <Text name="DownFaultNoFail">写入PLC故障码[{0}]失败：{1}！</Text>
+  <Text name="DownTaskNoSuccess">写入PLC任务号[{0}]成功！</Text>
+  <Text name="DownTaskNoFail">写入PLC任务号[{0}]失败：{1}！</Text>
+  <Text name="DownHandleFlagSuccess">写入PLC任务处理标志成功！</Text>
+  <Text name="DownHandleFlagFail">写入PLC任务处理标志失败：</Text>
+  <Text name="DownPickFlagSuccess">写入PLC取货处理标志成功！</Text>
+  <Text name="DownPickFlagFail">写入PLC取货处理标志失败：</Text>
+  <!--OPC处理-->
+  <Text name="ReadOPCItemsFail">OPC读取失败：未获取到项</Text>
+  <Text name="GetOPCItemsValueFail">OPC读取失败：</Text>
+  <Text name="GetOPCTagLongNameFail">未找到读取项[{0}]{1}</Text>
+  <Text name="GetOPCTagLongNameConnectBad">OPC读取项[{0}]连接状态为{1}</Text>
+  <Text name="GetOPCWriteItemsFail">未找到OPC写入项信息</Text>
+</Texts>
+

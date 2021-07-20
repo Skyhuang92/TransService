@@ -1,0 +1,71 @@
+﻿<UserControl x:Class="WCS.MyControl.TranControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WCS.MyControl"
+             xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing"
+             mc:Ignorable="d" 
+            d:DesignHeight="100" d:DesignWidth="60">
+    <Viewbox Stretch="Uniform">
+        <Grid x:Name="tranGrid" Width="60" Height="100" MouseLeftButtonDown="tranGrid_MouseLeftButtonDown" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2"/>
+                <RowDefinition Height="2"/>
+                <RowDefinition Height="2"/>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="2"/>
+                <RowDefinition Height="2"/>
+                <RowDefinition Height="2"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2"/>
+                <ColumnDefinition Width="6"/>
+                <ColumnDefinition Width="2"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="2"/>
+                <ColumnDefinition Width="6"/>
+                <ColumnDefinition Width="2"/>
+            </Grid.ColumnDefinitions>
+
+            <Rectangle Grid.Row="0" Grid.Column="0" Grid.RowSpan="11" Grid.ColumnSpan="3" Stroke="#FF464545" StrokeThickness="1"/>
+            <Rectangle Grid.Row="0" Grid.Column="4" Grid.RowSpan="11" Grid.ColumnSpan="3"  Stroke="#FF464545" StrokeThickness="1"/>
+            <Rectangle Grid.Row="0" Grid.Column="1" Grid.RowSpan="11" Stroke="#FF464545" StrokeThickness="0.5"/>
+            <Rectangle Grid.Row="0" Grid.Column="5" Grid.RowSpan="11"  Stroke="#FF464545" StrokeThickness="0.5"/>
+            <Rectangle Grid.Row="3" Grid.Column="3" Stroke="#FF464545" StrokeThickness="0.5"/>
+            <Rectangle Grid.Row="7" Grid.Column="3" Stroke="#FF464545" StrokeThickness="0.5"/>
+            <Rectangle Grid.Row="3" Grid.Column="1" Stroke="#FF464545" Fill="#FF464545" StrokeThickness="0.5"/>
+            <Rectangle Grid.Row="7" Grid.Column="1" Stroke="#FF464545" Fill="#FF464545" StrokeThickness="0.5"/>
+            <Rectangle Grid.Row="3" Grid.Column="5" Stroke="#FF464545" Fill="#FF464545" StrokeThickness="0.5"/>
+            <Rectangle Grid.Row="7" Grid.Column="5" Stroke="#FF464545" Fill="#FF464545" StrokeThickness="0.5"/>
+            <Rectangle x:Name="locStatus" Grid.Row="4" Grid.Column="3" Grid.RowSpan="3" StrokeThickness="1" Margin="1" Fill="LightGray"/>
+            <TextBlock x:Name="locPlcNo" Grid.Row="5" Grid.Column="3" Text="A1101" FontSize="12" FontStyle="Italic" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <ed:BlockArrow Name="baSouth" Grid.Row="6" Grid.Column="3" Height="20" Width="15" Stroke="#FF1721E6" RenderTransformOrigin="0.5,0.5" Margin="13,2,12,1">
+                <ed:BlockArrow.RenderTransform>
+                    <TransformGroup>
+                        <RotateTransform Angle="90"/>
+                    </TransformGroup>
+                </ed:BlockArrow.RenderTransform>
+            </ed:BlockArrow>
+            <ed:BlockArrow Name="baNorth" Grid.Row="4" Grid.Column="3" Height="20" Width="15" Stroke="#FF1721E6" RenderTransformOrigin="0.5,0.5" Margin="13,1,12,2">
+                <ed:BlockArrow.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="270"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </ed:BlockArrow.RenderTransform>
+            </ed:BlockArrow>
+            <Rectangle x:Name="locAuto"  Grid.Row="0" Grid.Column="0" Grid.RowSpan="11" Grid.ColumnSpan="7" Stroke="Orange" StrokeThickness="2"/>
+            <Ellipse Grid.Row="4" Grid.Column="5"  Width="3" Height="3" Fill="Red" Stroke="#FF869FF1" StrokeThickness="0.5" Margin="2,1,1,19"/>
+            <Ellipse Grid.Row="6" Grid.Column="5"  Width="3" Height="3" Fill="Red" Stroke="#FF869FF1" StrokeThickness="0.5" Margin="2,18,1,2"/>
+            <Rectangle x:Name="recNorth" Grid.Row="1" Grid.ColumnSpan="7" Fill="Red" StrokeThickness="0.5"/>
+            <Rectangle x:Name="recSouth" Grid.Row="9" Grid.ColumnSpan="7" Fill="Red" StrokeThickness="0.5"/>
+        </Grid>
+    </Viewbox>
+</UserControl>

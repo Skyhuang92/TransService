@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F26B8C7D-6D6D-44C5-A630-145AFC904371}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WCS.Trans</RootNamespace>
+    <AssemblyName>WCS.Trans</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper">
+      <HintPath>..\@Package\@DB\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="DapperExtensions">
+      <HintPath>..\@Package\@DB\DapperExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Drawing">
+      <HintPath>..\@Package\Microsoft.Expression.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.19.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\@Package\@DB\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Opc.Ua.Client">
+      <HintPath>..\@Package\@OPCUA\Opc.Ua.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Opc.Ua.ClientControls">
+      <HintPath>..\@Package\@OPCUA\Opc.Ua.ClientControls.dll</HintPath>
+    </Reference>
+    <Reference Include="Opc.Ua.Configuration">
+      <HintPath>..\@Package\@OPCUA\Opc.Ua.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Opc.Ua.Core">
+      <HintPath>..\@Package\@OPCUA\Opc.Ua.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcNetApi, Version=2.0.2.0, Culture=neutral, PublicKeyToken=9a40e993cbface53, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\@Package\@OPCDA\OpcNetApi.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcNetApi.Com, Version=2.0.1.0, Culture=neutral, PublicKeyToken=9a40e993cbface53, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\@Package\@OPCDA\OpcNetApi.Com.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcUaHelper">
+      <HintPath>..\@Package\@OPCUA\OpcUaHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess">
+      <HintPath>..\@Package\@DB\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="SRBL.DbClient.Dapper">
+      <HintPath>..\@Package\@SRBL\SRBL.DbClient.Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="SRBL.LogAgent">
+      <HintPath>..\@Package\@SRBL\SRBL.LogAgent.dll</HintPath>
+    </Reference>
+    <Reference Include="SRBL.OpcClient">
+      <HintPath>..\@Package\@SRBL\SRBL.OpcClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Common\Tool.cs" />
+    <Compile Include="Common\LocStatusToBrushConverter.cs" />
+    <Compile Include="Password.xaml.cs">
+      <DependentUpon>Password.xaml</DependentUpon>
+    </Compile>
+    <Content Include="Language\en_GB.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Language\th_TH.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Language\zh_cn.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Password.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="log4net\log4net.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\AllRefresh.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Delete.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Finish.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Help.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\HuashineLogo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Language.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\LocStatus.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Log.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Monitor.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\RefSend.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Restart.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\SystemLog.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\TaskInfo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Trans.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Trans.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="log4net\log4net.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WCS.Biz.Alarm\WCS.Biz.Alarm.csproj">
+      <Project>{ff1d8c06-b00f-4a2e-b89b-4dc87fcaac54}</Project>
+      <Name>WCS.Biz.Alarm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCS.Biz.BPallet\WCS.Biz.BPallet.csproj">
+      <Project>{d1c54e13-bf00-4b1b-bf58-80a74170429d}</Project>
+      <Name>WCS.Biz.BPallet</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCS.Biz.Cache\WCS.Biz.Cache.csproj">
+      <Project>{c9247101-ef49-4b80-918f-666425667a60}</Project>
+      <Name>WCS.Biz.Cache</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCS.Biz.OutPut\WCS.Biz.OutPut.csproj">
+      <Project>{1d5a3012-ca46-4eed-a2e9-ff87a0a7a7e0}</Project>
+      <Name>WCS.Biz.OutPut</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCS.Biz.PdIn\WCS.Biz.PdIn.csproj">
+      <Project>{9305581c-f1bf-408f-8fb9-460800524238}</Project>
+      <Name>WCS.Biz.PdIn</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCS.Biz.PdOut\WCS.Biz.PdOut.csproj">
+      <Project>{4dc843ce-d63e-4f1d-8dc1-14f98e8faa03}</Project>
+      <Name>WCS.Biz.PdOut</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCS.Biz.Split\WCS.Biz.Split.csproj">
+      <Project>{c9e1709e-0094-4d2b-8f37-cae4efd104df}</Project>
+      <Name>WCS.Biz.Split</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCS.Biz.TransIn\WCS.Biz.TransIn.csproj">
+      <Project>{4e178af4-eaaa-48d0-b2ef-5a51b70d6d2a}</Project>
+      <Name>WCS.Biz.TransIn</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCS.Biz.TransOut\WCS.Biz.TransOut.csproj">
+      <Project>{4a20732b-901a-4f21-a5ce-61dc167eadfa}</Project>
+      <Name>WCS.Biz.TransOut</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCS.Biz\WCS.Biz.csproj">
+      <Project>{e6143057-990d-4722-b3f8-0c488c83e353}</Project>
+      <Name>WCS.Biz</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCS.DbClient\WCS.DbClient.csproj">
+      <Project>{bbc0f391-f8e6-4b62-a3fe-506e2c71220b}</Project>
+      <Name>WCS.DbClient</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCS.Model\WCS.Entity.csproj">
+      <Project>{80e1f47a-3365-4d72-9e2c-a8423e4b6b87}</Project>
+      <Name>WCS.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCS.MyControl\WCS.MyControl.csproj">
+      <Project>{18bf80e4-f675-4697-9d7c-5263702c1c66}</Project>
+      <Name>WCS.MyControl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCS.OpcHelper\WCS.OpcHelper.csproj">
+      <Project>{7eb161f9-5761-4aae-83d8-b58fcb82b848}</Project>
+      <Name>WCS.OpcHelper</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

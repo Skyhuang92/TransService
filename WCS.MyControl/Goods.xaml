@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="WCS.MyControl.Goods"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WCS.MyControl"
+             mc:Ignorable="d" 
+              d:DesignHeight="100" d:DesignWidth="100">
+    <Viewbox Stretch="Fill">
+        <Canvas Width="100" Height="100">
+            <Rectangle Canvas.Top="0"  Width="100" Height="100" Stroke="Brown" StrokeThickness="5" Fill="BlanchedAlmond"/>
+            <Line X1="1" Y1="1" X2="99" Y2="99" Stroke="Brown" StrokeThickness="3"/>
+            <Line X1="1" Y1="99" X2="99" Y2="1" Stroke="Brown" StrokeThickness="3"/>
+        </Canvas>
+    </Viewbox>
+</UserControl>

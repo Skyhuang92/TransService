@@ -1,0 +1,15 @@
+﻿<Application x:Class="WCS.Trans.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WCS.Trans"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Language\zh_CN.xaml"/>
+                <ResourceDictionary Source="Language\en_GB.xaml"/>
+                <ResourceDictionary Source="Language\th_TH.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
